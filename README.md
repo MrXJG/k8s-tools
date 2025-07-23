@@ -29,7 +29,7 @@
 
 ### 安装方法
 ```bash
-git clone https://github.com/MrXJG/k8s-graceful-shutdown.git
+git clone [https://github.com/MrXJG/k8s-graceful-shutdown.git](https://github.com/MrXJG/k8s-tools.git)
 cd k8s-graceful-shutdown
 chmod +x shutdown_k8s_cluster.sh startup_k8s_cluster.sh
 ```
